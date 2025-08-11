@@ -1,1 +1,8 @@
-
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "view": "https://example.com/",
+    "theme": "FFFFFF"
+  }
+}
